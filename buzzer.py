@@ -8,4 +8,4 @@ while True:
         sleep_ms(200)  
     else:
         buzz.off()
-#         sleep_ms(200)
+        sleep_ms(200)
