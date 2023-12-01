@@ -20,9 +20,7 @@ while True:
         for cp in col_pins:
             cp.on()
             rp.off()
-        time.sleep(1)
-    
-    
+        time.sleep(1)   
 
             
 
