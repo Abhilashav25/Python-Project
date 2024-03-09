@@ -77,7 +77,6 @@ def loop():
 #         sleep(2)
 #         lcd.clear()
 
-Love you Paaapa
     if IR1.value() == 0 :
         if Slot > 0:
             flag1 = 1
