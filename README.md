@@ -1,6 +1,5 @@
 # Python-Project
 
-Paapaaa love u paapa
 
 
 #Smart Car Parking System
