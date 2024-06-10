@@ -2,7 +2,7 @@
 
 
 
-#Smart Car Parking System
+# Smart Car Parking System
 
 from machine import Pin, PWM, I2C, SPI
 from time import sleep
