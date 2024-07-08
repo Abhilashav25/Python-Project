@@ -2,7 +2,7 @@ import machine
 led = machine.Pin(2,machine.Pin.OUT)
 led.off()
 
-# Configure the ESP32 wifi as STAtion mode.
+# Configure the ESP32 wifi as Station mode.
 import network
 
 
