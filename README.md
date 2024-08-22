@@ -2,7 +2,6 @@
 
 
 
-
 ## Smart Car Parking System
 
 from machine import Pin, PWM, I2C, SPI
